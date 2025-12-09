@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "https://scrimba.com/links/travel-journal-japan-image-url",
+            src: "./images/tabletop-mountain.jpg",
             alt: "Mountain"
         },
         title: "Tabletop Mountain",
@@ -14,24 +14,24 @@ export default [
     {
         id: 2,
         img: {
-            src: "https://scrimba.com/",
+            src: "./images/hundertwasser-building.jpg",
             alt: "Hundertwasser House"
         },
         title: "Hundertwasser House",
         country: "Austria",
-        googleMapsLink: "https://maps.app.goo.gl/Zr17SCrsJeCEKMd36",
+        googleMapsLink: "https://maps.app.goo.gl",
         dates: "27 Dec, 2021 - 2 Jan, 2022",
         text: "The Hundertwasser House is a arts museum in Vienna. Located on the suburb, it is often regarded as one of the 20th century's most famous and distinctive buildings."
     },
     {
         id: 3,
         img: {
-            src: "https://scrimba.com/links/travel-journal-norway-image-url",
+            src: "./images/fish-river-canyon.jpg",
             alt: "Fish River Canyon"
         },
         title: "Fish River Canyon",
         country: "Namibia",
-        googleMapsLink: "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
+        googleMapsLink: "https://maps.app.goo.gl",
         dates: "01 Feb, 2018 - 18 Feb, 2018",
         text: "Fish River Canyon is the second largest canyon in the world. It stretches from South Namibia 150 kilometres to the Namib Desert."
     },
